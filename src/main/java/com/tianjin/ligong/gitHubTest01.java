@@ -9,5 +9,6 @@ public class gitHubTest01 {
         System.out.println("hot-fix-ls2");
         System.out.println("master-ls4");
         System.out.println("hot-fix-ls3");
+        System.out.println("master-first-push-github");
     }
 }
